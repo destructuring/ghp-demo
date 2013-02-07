@@ -1,0 +1,5 @@
+---
+remotes:
+  primary: git@github.com:destructuring/ghp-demo
+  secondary: git@bitbucket.org:destructuring/ghp-demo
+  rb: https://github.com/destructuring/rb-helper
